@@ -51,7 +51,7 @@ body {
     transition: all 300ms linear 300ms;
 }
 
-.popup__open {
+.popup.open {
     opacity: 1;
     visibility: visible;
 }
